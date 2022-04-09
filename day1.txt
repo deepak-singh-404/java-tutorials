@@ -1,0 +1,2 @@
+Learn about data type and variables.
+Covered Scopes and functions.
